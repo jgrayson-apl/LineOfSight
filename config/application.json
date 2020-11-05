@@ -1,0 +1,30 @@
+{
+  "title": "Line Of Sight - Multiple Observers",
+  "appid": "",
+  "group": "",
+  "webmap": "",
+  "webscene": "68030646f79540a285e7a7e55dbea820",
+  "portalUrl": "https://www.arcgis.com",
+  "oauthappid": "6NsKkXvcADmfBicB",
+  "proxyUrl": "",
+  "units": "dual",
+  "helperServices": {
+    "geometry": {
+      "url": null
+    },
+    "printTask": {
+      "url": null
+    },
+    "elevationSync": {
+      "url": null
+    },
+    "geocode": [
+      {
+        "url": null
+      }
+    ]
+  },
+  "ThemeTextColor": "",
+  "ThemeBackgroundColor": "",
+  "ThemeHighlightColor": ""
+}
